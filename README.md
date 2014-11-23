@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Coursera Peer Assessments
+Thanks for your evaluation.
